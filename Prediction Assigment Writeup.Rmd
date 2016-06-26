@@ -134,7 +134,7 @@ confusionMatrix(prediction2, testing_part$classe)
 ```
 
 #Conclusion 
-        Random Forest will be used because it has a good accuracy, 99%, the expected out-of-sample error is 0.0076 (1 - accuracy for the predictions model) and Kappa statistic value is 0.9903.
+Random Forest will be used because it has a good accuracy, 99%, the expected out-of-sample error is 0.0076 (1 - accuracy for the predictions model) and Kappa statistic value is 0.9903.
  
 #Applying Random Forest algorithm to the original Testing data set
 
